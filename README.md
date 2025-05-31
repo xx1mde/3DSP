@@ -13,3 +13,5 @@ Bob и Alice имеют долгосрочную пару x448 ключей. Н�
 3. DH(Alice_private_ephemeral_key, Bob_public_long-term_key)
 
 Далее по алгоритму X3DH + Double Ratchet.
+
+![VLPRRnj557xVNt7eIsqh3chp5gceHGua2eWe4OWtQsEFarNMksOzxaNgGovj0sffe0AfBoWKNW5j4fkuTR3_mim_uZjdrgulSHDvlJDphjztpXdVRMe_qQrww3NtWgZX9twTTlse-Y09j5OHwQIbnewQkturVX14ErJpm-R4YVgkfQAA-b8rc_wEkXS6Er5THPf2LTEUfmCTAbegRMq](https://github.com/user-attachments/assets/8d0d5c2a-9ed2-4076-b998-1188eec4f6c5)
